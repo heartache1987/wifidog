@@ -1,4 +1,4 @@
-wifidog性能测试报告
+Apfree_WiFidog与原版wifidog性能对比报告
 ============
 # 测试目的 #
 本次测试主要是通过软件发起大量的http请求来测试wifidog处理请求的能力，并且针对<br />
