@@ -1,6 +1,6 @@
 wifidog性能测试报告
 ============
-#测试目标#
+# 测试目的 #
 本次测试主要是通过软件发起大量的http请求来测试wifidog处理请求的能力，并且针对<br />
 apfree_wifidog与原版wifidog的稳定性做一个对比。
 # 测试设计 #
@@ -12,10 +12,10 @@ apfree_wifidog与原版wifidog的稳定性做一个对比。
 连接路由器后台，已调试模式运行wifidog，以便随时监控wifidog，运行软件不断发起http请求。
 ## 测试条件 ##
 wifidog启动中，并且没有进行过认证。
-##测试工具  ##
+## 测试工具 ##
 硬件：带apfree_wifidog的路由器一台、带原版wifidog的路由器一台、笔记本电脑一台<br />
 软件：Weebench web压力测试工具
-##路由器配置##
+## 路由器配置 ##
 system type：Qualcomm Atheros QCA9533 ver 2 rev 0  <br />
 machine：KUNTENG KT9661<br />
 cpu model：MIPS 24Kc V7.4
